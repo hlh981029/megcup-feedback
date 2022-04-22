@@ -6,6 +6,10 @@
 # train gt: /data/competition_train_gt.0.2.bin
 # test input: /data/competition_test_input.0.2.bin
 
+# create environment
+conda env create -f environment.yaml
+conda activate feedback
+
 # evaluate on train dataset
 python test.py
 
