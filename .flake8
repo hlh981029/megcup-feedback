@@ -1,0 +1,26 @@
+[flake8]
+ignore = 
+    # F401: imported but unused
+    F401,
+    # E302: expected 2 blank lines, found 0
+    # E302,
+    # E266:too many leading '#' for block comment
+    E266,
+    # W503: line break before binary op
+    W503,
+    # E999: f-string blackslash
+    E999,
+    # E501
+    # import *
+    F403,
+    E741,
+    # F401 import but unused
+    F401,
+exclude =
+    .git,
+    __pycache__,
+    old,
+    build,
+    dist
+max-complexity = 20
+max_line_length = 160

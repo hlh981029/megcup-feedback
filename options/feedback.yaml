@@ -1,0 +1,30 @@
+tag: 'feedback'
+output: 'output'
+print_freq: 100
+
+eval_valid: true
+enable_ema: true
+
+data:
+  datanorm: 'full_dn'
+  valid_ref_file_path: './data/competition_train_input.0.2.bin'
+  valid_gt_file_path: './data/competition_train_gt.0.2.bin'
+  test_file_path: './data/competition_test_input.0.2.bin'
+
+model:
+  resume: 'model_best.pth'
+  name: 'FeedbackModel'
+
+searcher:
+  step: 0
+  max_step: 160001
+  search_interval: 20000
+  exp_rate: 0.5
+  init_alphas: 0.01
+  normlize: 'absavg'
+  mmin: 1
+  mmax: 2048
+  S: 3
+  finetune: true
+  search_log: 'options/feedback.json'
+  use_warp: true 

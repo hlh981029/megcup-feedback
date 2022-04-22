@@ -1,0 +1,4 @@
+{
+    "editor.formatOnSave": true,
+    "python.linting.flake8Enabled": true
+}
