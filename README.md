@@ -1,11 +1,17 @@
 # MegCup 2022 Team Feedback
 
-This repository is the 1st place solution (Team Feedback) in [2022 MegCup RAW image denoising](https://studio.brainpp.com/competition/5?tab=rank).
+This repository is the **1st** place solution (Team Feedback) in [2022 MegCup RAW image denoising](https://studio.brainpp.com/competition/5?tab=rank).
 
 ## Members 
 - [Ling-Hao Han](https://github.com/hlh981029)
 - [Zuo-Liang Zhu](https://github.com/NK-CS-ZZL)
 - [Weilei Wen](https://github.com/wwlCape)
+
+## Overview
+
+<div align="center">
+    <img src="figs/components.png" width="782" height="434">
+</div>
 
 ## Environment
 
