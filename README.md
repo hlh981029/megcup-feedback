@@ -2,7 +2,7 @@
 
 This repository is the 1st place solution (Team Feedback) in [2022 MegCup RAW image denoising](https://studio.brainpp.com/competition/5?tab=rank).
 
-## Members
+## Members 
 - [Ling-Hao Han](https://github.com/hlh981029)
 - [Zuo-Liang Zhu](https://github.com/NK-CS-ZZL)
 - [Weilei Wen](https://github.com/wwlCape)
@@ -17,10 +17,10 @@ conda env create -f environment.yaml
 conda activate feedback
 ```
 
-## Dataset Preparation
+## Dataset
 
 Please download the [dataset](https://studio.brainpp.com/competition/5?tab=questions) to `./data`,
-and refer to `options/feedback.yaml` to set the data path and the model weights path.
+and refer to `options/feedback.yaml` to modify the data path.
 
 ```bash
 |--data
