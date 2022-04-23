@@ -1,5 +1,12 @@
 # MegCup 2022 Team Feedback
 
+## Members
+- [Ling-Hao Han](https://github.com/hlh981029)
+- [Zuo-Liang Zhu](https://github.com/NK-CS-ZZL)
+- [Weilei Wen](https://github.com/wwlCape)
+
+## Usage
+
 ```bash
 ## prepare data
 # train input: ./data/competition_train_input.0.2.bin
