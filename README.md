@@ -2,9 +2,9 @@
 
 ```bash
 ## prepare data
-# train input: /data/competition_train_input.0.2.bin
-# train gt: /data/competition_train_gt.0.2.bin
-# test input: /data/competition_test_input.0.2.bin
+# train input: ./data/competition_train_input.0.2.bin
+# train gt: ./data/competition_train_gt.0.2.bin
+# test input: ./data/competition_test_input.0.2.bin
 
 # create environment
 conda env create -f environment.yaml
