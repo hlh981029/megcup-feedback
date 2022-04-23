@@ -10,7 +10,7 @@ This repository is the **1st** place solution (Team Feedback) in [2022 MegCup RA
 ## Overview
 
 <div align="center">
-    <img src="figs/components.png" width="782" height="434">
+    <img src="figs/components.png" width="782" height="435">
 </div>
 
 ## Environment
