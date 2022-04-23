@@ -5,7 +5,7 @@
 - [Zuo-Liang Zhu](https://github.com/NK-CS-ZZL)
 - [Weilei Wen](https://github.com/wwlCape)
 
-Our team (FeedBack) achieve the first place in ([MegCup  raw image denoising competiton](https://studio.brainpp.com/competition/5?tab=rank)) ! This is the available code.
+Our team (FeedBack) achieve the first place in [MegCup  raw image denoising competiton](https://studio.brainpp.com/competition/5?tab=rank)! This is the available code.
 
 ## Environment
 
