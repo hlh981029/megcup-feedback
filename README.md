@@ -6,6 +6,7 @@ This repository is the **1st** place solution (Team Feedback) in [2022 MegCup RA
 - [Ling-Hao Han](https://github.com/hlh981029)
 - [Zuo-Liang Zhu](https://github.com/NK-CS-ZZL)
 - [Weilei Wen](https://github.com/wwlCape)
+-  Adviser : [Chunle Guo](https://mmcheng.net/clguo/)
 
 ## Overview
 
