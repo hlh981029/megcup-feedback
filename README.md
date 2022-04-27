@@ -1,6 +1,6 @@
 # MegCup 2022 Team Feedback
 
-This repository is the **1st** place solution (Team Feedback) in [2022 MegCup RAW image denoising](https://studio.brainpp.com/competition/5?tab=rank).
+This repository is the **1st** place solution (Team Feedback) in [2022 MegCup RAW image denoising](https://studio.brainpp.com/competition/5?tab=rank). Here is the 3rd place solution, [FeedBack-based Restormer](https://github.com/Srameo/megcup-feedforward).
 
 ## Members 
 - [Ling-Hao Han](https://github.com/hlh981029)
@@ -11,8 +11,17 @@ This repository is the **1st** place solution (Team Feedback) in [2022 MegCup RA
 ## Overview
 
 <div align="center">
-    <img src="figs/components.png" width="782" height="435">
+    <img src="figs/fig-1.jpg" width="782" height="435">
 </div>
+
+<details><summary>Click for more illustration</summary>
+<div align="center">
+    <img src="figs/fig-2.jpg" width="782" height="435">
+    <img src="figs/fig-3.jpg" width="782" height="435">
+    <img src="figs/fig-4.jpg" width="782" height="435">
+</div>
+</details>
+
 
 ## Environment
 
